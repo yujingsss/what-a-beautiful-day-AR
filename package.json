@@ -11,9 +11,9 @@
     "AR App"
   ],
   "author": "Yujing Shi",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^4.0.0"
+    "socket.io": "^4.1.3"
   }
 }
